@@ -1,6 +1,6 @@
 # slipt
 
-See ["The Roots of Lisp" by Paul Graham](http://ep.yimg.com/ty/cdn/paulgraham/jmc.ps) for implementation implementation.
+See ["The Roots of Lisp" by Paul Graham](http://ep.yimg.com/ty/cdn/paulgraham/jmc.ps) for implementation reference.
 
 ## Definitions
 
